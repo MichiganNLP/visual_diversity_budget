@@ -1,5 +1,4 @@
 GeoDe,DollarStreet,Combined and renamed,ImageNet21k classes,ImageNet21k ids,ImageNet1k classes,ImageNet1k ids,LAION?
--,"air cleaning equipments, air fresheners (scents",air cleaning equipment,,,,,yes
 -,"arm watches, arm watch",arm watch,wristwatch,n04607869,,,
 -,"armchair, sitting area",armchair,armchair,n02738535,,,yes
 backyard,"backyard, surroundings, street detail, street view",backyard,"garden, patio","n03417345, n03899768",,,yes
@@ -28,7 +27,6 @@ cooking_pot,cooking pots,cooking pot,pot,n03990474,,,yes
 -,dishwasher,dishwasher,dishwasher,n03207941,,,yes
 -,drainage,drainage,"grate, grate, manhole","n03454536, n03454707, n03717447",,,yes
 -,"drinking water, drinks, drinking social drink",drinking water,"water_glass, faucet","n04559910, n03325088",,,yes
--,"electric wires, electricity wires",electric wire,"wire, wire","n04594218, n04594489",,,yes
 fence,-,fence,fence,n03327234,,,yes
 -,"fields, nature sceneries, vegetable plot, agriculture land",field,field,n08659446,,,
 -,"fishing equipment, fishes",fishing equipment,"fishing, bait","n00453935, n02776205",,,yes
@@ -56,7 +54,6 @@ light_switch,"switch on/off, turning lights on and off",light switch,,,,,yes
 medicine,medication,medicine,"capsule, syrup","n02957755, n07859583",,,
 -,menstruation pads / tampax,menstruation pad,Tampax,n04387932,,,
 monument,-,monument,"statue, memorial","n04306847, n03743902",,,yes
--,newspapers,newspaper,"newspaper, newspaper","n03822171, n06267145",,,yes
 -,oven,oven,oven,n03862676,,,yes
 -,parking lot,parking lot,"garage, garage","n03416489, n03416640",,,
 -,pen/pencils,pen/pencil,"pencil, pencil","n03908204, n13863020","ballpoint, ballpoint pen, ballpen, Biro, fountain pen","n02783161, n02783161, n02783161, n02783161, n03388183",
