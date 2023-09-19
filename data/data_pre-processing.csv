@@ -1,0 +1,103 @@
+GeoDe,DollarStreet,Combined and renamed,ImageNet21k classes,ImageNet21k ids,ImageNet1k classes,ImageNet1k ids,LAION?
+-,"air cleaning equipments, air fresheners (scents",air cleaning equipment,,,,,yes
+-,"arm watches, arm watch",arm watch,wristwatch,n04607869,,,
+-,"armchair, sitting area",armchair,armchair,n02738535,,,yes
+backyard,"backyard, surroundings, street detail, street view",backyard,"garden, patio","n03417345, n03899768",,,yes
+bag,-,bag,"bag, bag, bag","n02773037, n02773838, n02774152",,,yes
+-,"bathroom privacy, bathroom/toilet",bathroom,bathroom,n02807731,,,yes
+-,"bedroom, bed, bed hq, bed kids, guest bed, laying in bed - pretend to sleep",bedroom,bedroom,n02821627,,,yes
+bicycle,bike,bicycle,"bicycle, bicycle-built-for-two	","n02834778, n02835271",,,
+boat,boat,boat,boat,n02858304,,,
+-,"books, reading a book, seeing the back of book",book,"book, book","n02870526, n07954211",,,yes
+-,bowls,bowl,"bowl, bowl","n02880940, n02881193",,,yes
+bus,-,bus,bus,n02924116,,,
+candle,-,candle,candle,n02948072,,,yes
+car,"car, car decorations",car,"car, car, car, used-car","n02958343, n02959942, n02960352, n04516354",,,
+-,ceiling,ceiling,ceiling,n02990373,,,
+chair,sitting area,chair,"chair, chair","n03001627, n03002096",,,yes
+cleaning_equipment,"cleaning after toilet, cleaning equipment, cleaning floors, washing clothes/cleaning",cleaning equipment,broom,n02906734,"vacuum, vacuum cleaner, swab, swob, mop, broom, dishrag, dishcloth","n04517823, n04517823, n04367480, n04367480, n04367480, n02906734, n03207743, n03207743",yes
+-,"clothes, coats and jackets, wardrobe",clothes,"shirt, work-shirt, dress, suit, skirt, skirt, jacket, jacket, coat, sweater","n04197391, n04602956, n03236735, n04350905, n04230808, n04231272, n03589791, n03590306, n03057021,n04370048",,,
+-,computer,computer,computer,n03082979,,,
+-,"cooking, cooking food",cooking,,,,,yes
+cooking_pot,cooking pots,cooking pot,pot,n03990474,,,yes
+-,"cooking utensils, baking tools",cooking utensils,"spatula, spatula, laddle, whisk","n04269944, n04270147, n03633091, n04578934",,,
+-,"couch, sofa, sitting area",couch,"couch, couch, sofa","n03115762, n03115897, n04256520",,,
+-,cups/mugs/glasses,cup,"cup, cup","n03147509, n07930864",,,
+-,cutlery,cutlery,tableware,n04381994,,,yes
+-,diapers (or baby-pants),diaper,"diaper, diaper","n03188531, n03188725",,,yes
+-,dishwasher,dishwasher,dishwasher,n03207941,,,yes
+-,drainage,drainage,"grate, grate, manhole","n03454536, n03454707, n03717447",,,yes
+-,"drinking water, drinks, drinking social drink",drinking water,"water_glass, faucet","n04559910, n03325088",,,yes
+-,"electric wires, electricity wires",electric wire,"wire, wire","n04594218, n04594489",,,yes
+fence,-,fence,fence,n03327234,,,yes
+-,"fields, nature sceneries, vegetable plot, agriculture land",field,field,n08659446,,,
+-,"fishing equipment, fishes",fishing equipment,"fishing, bait","n00453935, n02776205",,,yes
+flag,-,flag,flag,n03354903,,,yes
+-,floor,floor,"floor, floor","n03365592, n09282208",,,
+front_door,"front door, opening the front door, closing the front door, lock on front door, walking towards front door",front door,,,,,yes
+-,"get water, carrying water, pouring water, pouring drinking water, sources of drinking water, water sources, walking to get water",get water,tap,n04390977,"water bottle, water jug, water tower","n04557648, n04560804, n04562935",
+-,glasses or lenses,glasses,,,,,yes
+hairbrush_comb,brushing hair,hairbrush/comb,"hairbrush, comb, comb","n03475581, n03074855, n03075097",,,yes
+-,hallway,hallway,aisle,n02694045,,,yes
+-,hanging clothes to dry,hanging clothes to dry,,,,,yes
+-,"hand washing, washing clothes/cleaning, washing hands, doing dishes",hand washing,washbasin,n04553703,,,
+hat,-,hat,hat,n03497657,,,yes
+house,"house overview, home",house,"house, house","n03544360, n03545150",,,
+-,"jewelry, earings, necklaces, piercings",jewelry,"bangle, necklace, bracelet, ring, ring","n02787435, n03814906, n02887970, n04981658, n13875392",,,yes
+jug,-,jug,jug,n03603722,,,yes
+-,"car keys, frontdoor keys",key,key,n03613294,,,
+-,kitchen,kitchen,kitchen,n03619890,,,yes
+-,kitchen sink,kitchen sink,,,,,yes
+-,knifes,knife,"knife, knife","n03623556, n03624134",,,
+light_fixture,"light source in kitchen, light source in livingroom, light sources, lightsources by bed, source of light, reading light",light fixture,"lampshade, chandelier, lamp, lamp, sconce, sconce","n03637318, n03005285, n03636248, n03636649, n04148579, n04148703",,,yes
+light_switch,"switch on/off, turning lights on and off",light switch,,,,,yes
+-,living room,living room,lounge,n03691817,,,yes
+-,"make up, cosmetics, putting on make up",makeup,makeup,n03714235,,,yes
+medicine,medication,medicine,"capsule, syrup","n02957755, n07859583",,,
+-,menstruation pads / tampax,menstruation pad,Tampax,n04387932,,,
+monument,-,monument,"statue, memorial","n04306847, n03743902",,,yes
+-,newspapers,newspaper,"newspaper, newspaper","n03822171, n06267145",,,yes
+-,oven,oven,oven,n03862676,,,yes
+-,parking lot,parking lot,"garage, garage","n03416489, n03416640",,,
+-,pen/pencils,pen/pencil,"pencil, pencil","n03908204, n13863020","ballpoint, ballpoint pen, ballpen, Biro, fountain pen","n02783161, n02783161, n02783161, n02783161, n03388183",
+dog,pet,pet,pet,n01318894,,,
+-,"phone, answering the phone, picking up the phone",phone,pay-phone,n03902125,"cellular telephone, cellular phone, cellphone, cell, mobile phone, dial telephone, dial phone","n02992529, n02992529, n02992529, n02992529, n02992529, n03187595, n03187595",yes
+plate_of_food,"plate of food, plates",plate,"plate, plate, plate","n03960374, n03960490, n07579787",,,
+-,"play area, playgrounds, playing, children room, kids playing inside, kids playing outside",play area,"playground, sandbox","n03963645, n04134523",,,yes
+-,"power outlet, plugging into and out of power outlet",power outlet,socket,n04255163,,,yes
+-,"listening to the radio, radio",radio,"radio, radio","n04041544, n06277135",,,
+-,"reading, reading a book",read,,,,,yes
+-,"refrigerator, freezer, opening and closing the refrigerator, opening and closing the freezer",refrigerator,refrigerator,n04070727,,,yes
+religious_building,"worship places, worshipping",religious building,"church, mosque, temple, temple, synagogue, chapel","n03028079, n03788195, n04407435, n04407686, n04374735, n03007130",,,yes
+road_sign,-,road sign,,,street sign,n06794110 ,yes
+-,roof,roof,"roof, roof","n04105068, n09416890",,,
+-,"rug, sitting area",rug,rug,n04118021,,,yes
+-,"salt, taking a teaspoon of salt",salt,,,"saltshaker, salt shaker","n04131690, n04131690",
+-,shampoo,shampoo,,,,,yes
+-,shaving,shaving,"razor, shaver","n04057047, n04185804",,,
+-,"everyday shoes, nicest shoes, shoes",shoes,"shoe, shoe","n04199027, n04200000",,,yes
+-,shower,shower,shower,n04208936,,,
+-,"sleeping, laying in bed - pretend to sleep",sleep,bed,n02818832,sleeping bag,n04235860,yes
+hand_soap,soap for hands and body,soap,,,soap dispenser,n04254120 ,yes
+-,"source of cool, turning fan/ac on, ventilation",source of cool,"fan, air_conditioner, cooler","n03320046, n02686379, n03102654",,,yes
+-,"source of heat, turning heater on",source of heat,"heater, radiator, radiator, radiator, fireplace, air_conditioner","n03508101, n04040759, n04041069, n09403211, n03346455, n02686379",,,yes
+spices,"spices, adding spices to food while cooking",spice,spice,n07812184,,,yes
+-,"storage room, meat storages",storage room,"pantry, attic","n03885535, n02755823",,,
+"storefront, stall","foodstores, snack stores, vegetable markets, markets, meat markets",store,,,"shoe shop, shoe-shop, shoe store, grocery store, grocery, food market, market, confectionery, confectionary, candy store","n04200800, n04200800, n04200800, n03461385, n03461385, n03461385, n03461385, n03089624, n03089624, n03089624",
+stove,"stove/hob, starting stove",stove,"stove, stove","n04330267, n04330340",,,yes
+streetlight_lantern,-,streetlight lantern,"streetlight, lantern","n04335886, n03640988",,,
+-,"toilet, bathroom privacy, bathroom/toilet, using toilet",toilet,toilet,n04446276,,,
+-,toilet paper,toilet paper,,,"toilet tissue, toilet paper, bathroom tissue",n15075141,yes
+toothbrush,"toothbrush, toothpaste on toothbrush, brushing teeth",toothbrush,toothbrush,n04453156,,,yes
+toothpaste_toothpowder,toothpaste on toothbrush,toothpaste,,,,,yes
+toy,toys,toy,toy,n04461879,,,yes
+tree,-,tree,"tree, tree","n13104059, n13912260",,,
+truck,tractors,truck,truck,n04490091,,,yes
+-,"tv, turn tv on, sitting and watching tv",tv,"television, television","n04404412, n06277280",,,
+-,"vegetable plot, vegetables, vegetable markets",vegetables,vegetable,n07707451,,,yes
+-,"wall, wall clock, wall decoration, wall inside",wall,"wall, wall","n04547592, n14564779",,,
+"waste_container, dustbin",throwing food trash away,waste container,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",n02747177,yes
+-,"waste dumps, trash/waste",waste dump,"landfill, litter","n09335809, n14858292",,,
+-,water outlet,water outlet,"faucet, tap","n03325088, n04390977",,,yes
+wheelbarrow,wheel barrow,wheelbarrow,"handcart, cart","n03484083, n02970849",,,yes
+-,work area,work area,"office, desk, workstation","n03841666, n03179701, n04603399",,,
