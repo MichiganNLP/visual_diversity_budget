@@ -1,0 +1,423 @@
+topic,country
+armchair,Cambodia
+armchair,Cameroon
+armchair,China
+armchair,India
+armchair,Indonesia
+armchair,Malawi
+armchair,Nepal
+armchair,Pakistan
+armchair,Philippines
+backyard,Bangladesh
+backyard,Brazil
+backyard,Burkina Faso
+backyard,Burundi
+backyard,Cambodia
+backyard,Cameroon
+backyard,Cote d'Ivoire
+backyard,Haiti
+backyard,India
+backyard,Jordan
+backyard,Malawi
+backyard,Myanmar
+backyard,Nepal
+backyard,Netherlands
+backyard,Nigeria
+backyard,Pakistan
+backyard,Peru
+backyard,Rwanda
+backyard,Tanzania
+backyard,Togo
+backyard,Tunisia
+backyard,Vietnam
+backyard,Zimbabwe
+bathroom,Bangladesh
+bathroom,Burkina Faso
+bathroom,Cambodia
+bathroom,Haiti
+bathroom,Indonesia
+bathroom,Malawi
+bathroom,Myanmar
+bathroom,Nepal
+bathroom,Nigeria
+bathroom,Philippines
+bathroom,South Africa
+bathroom,South Korea
+bathroom,Tunisia
+bathroom,Vietnam
+bathroom,Zimbabwe
+bedroom,Bangladesh
+bedroom,Burkina Faso
+bedroom,Cambodia
+bedroom,Cameroon
+bedroom,Cote d'Ivoire
+bedroom,Haiti
+bedroom,Indonesia
+bedroom,Malawi
+bedroom,Myanmar
+bedroom,Nepal
+bedroom,Nigeria
+bedroom,Philippines
+bedroom,South Africa
+bedroom,Thailand
+bedroom,Tunisia
+bedroom,Vietnam
+bedroom,Zimbabwe
+bicycle,Nigeria
+book,Nepal
+bus,China
+bus,Egypt
+bus,Japan
+bus,Nigeria
+bus,Saudi Arabia
+bus,South Korea
+bus,United Arab Emirates
+car,Argentina
+car,China
+car,Colombia
+car,Egypt
+car,Hong Kong
+car,India
+car,Indonesia
+car,Italy
+car,Japan
+car,Nigeria
+car,Philippines
+car,Romania
+car,Saudi Arabia
+car,South Africa
+car,South Korea
+car,Spain
+car,Thailand
+car,Turkey
+car,United Arab Emirates
+car,United Kingdom
+ceiling,China
+ceiling,Philippines
+ceiling,United States
+chair,Brazil
+chair,India
+chair,Nepal
+cleaning equipment,Bangladesh
+cleaning equipment,Burkina Faso
+cleaning equipment,Burundi
+cleaning equipment,Cameroon
+cleaning equipment,Ethiopia
+cleaning equipment,Kenya
+cleaning equipment,Malawi
+cleaning equipment,Myanmar
+cleaning equipment,Tanzania
+cleaning equipment,Zimbabwe
+clothes,Brazil
+clothes,Cambodia
+clothes,China
+clothes,Colombia
+clothes,India
+clothes,Indonesia
+clothes,Nepal
+clothes,Nigeria
+clothes,Philippines
+clothes,United States
+cooking,Brazil
+cooking,Colombia
+cooking,India
+cooking pot,Bangladesh
+cooking pot,Nepal
+cooking utensils,Brazil
+couch,Cambodia
+couch,Cameroon
+couch,China
+couch,Indonesia
+couch,Nepal
+couch,Nigeria
+couch,Pakistan
+couch,Philippines
+cup,Brazil
+cup,Indonesia
+cup,Nepal
+cutlery,Brazil
+cutlery,Indonesia
+cutlery,Nepal
+cutlery,United States
+drinking water,Bangladesh
+drinking water,Cameroon
+drinking water,Indonesia
+drinking water,Jordan
+drinking water,Malawi
+drinking water,Myanmar
+drinking water,Nepal
+drinking water,Philippines
+drinking water,Vietnam
+fence,Egypt
+fence,Indonesia
+fence,Nigeria
+fence,Philippines
+fence,Thailand
+fence,United Arab Emirates
+field,China
+field,Nepal
+flag,Indonesia
+flag,United Arab Emirates
+floor,Nepal
+front door,Bangladesh
+front door,Burkina Faso
+front door,Cambodia
+front door,Cameroon
+front door,Haiti
+front door,Kenya
+front door,Malawi
+front door,Nepal
+front door,Pakistan
+front door,Peru
+front door,Tanzania
+get water,Bangladesh
+get water,Burkina Faso
+get water,Burundi
+get water,Haiti
+get water,Malawi
+get water,Myanmar
+get water,Nepal
+get water,Nigeria
+get water,Pakistan
+get water,Philippines
+get water,South Africa
+get water,Spain
+get water,Zimbabwe
+hairbrush/comb,India
+hand washing,Bangladesh
+hand washing,Bolivia
+hand washing,Burkina Faso
+hand washing,Burundi
+hand washing,Cambodia
+hand washing,Cameroon
+hand washing,Ethiopia
+hand washing,Haiti
+hand washing,India
+hand washing,Indonesia
+hand washing,Iran
+hand washing,Kenya
+hand washing,Malawi
+hand washing,Myanmar
+hand washing,Nepal
+hand washing,Netherlands
+hand washing,Nigeria
+hand washing,Pakistan
+hand washing,Peru
+hand washing,Philippines
+hand washing,South Africa
+hand washing,Tanzania
+hand washing,Togo
+hand washing,Tunisia
+hand washing,Vietnam
+hand washing,Zimbabwe
+house,Brazil
+house,Burkina Faso
+house,China
+house,Colombia
+house,Egypt
+house,India
+house,Indonesia
+house,Italy
+house,Japan
+house,Jordan
+house,Malawi
+house,Mexico
+house,Myanmar
+house,Nepal
+house,Netherlands
+house,Nigeria
+house,Pakistan
+house,Philippines
+house,Saudi Arabia
+house,South Africa
+house,South Korea
+house,Spain
+house,Thailand
+house,United Arab Emirates
+house,United Kingdom
+jewelry,Ethiopia
+jewelry,Nepal
+jug,Philippines
+jug,South Korea
+kitchen,China
+kitchen,Indonesia
+kitchen,Nepal
+kitchen,Philippines
+kitchen sink,Brazil
+kitchen sink,Burkina Faso
+kitchen sink,China
+kitchen sink,Colombia
+kitchen sink,India
+kitchen sink,Indonesia
+kitchen sink,Myanmar
+kitchen sink,Nepal
+kitchen sink,Pakistan
+kitchen sink,Philippines
+kitchen sink,South Africa
+light fixture,Bangladesh
+light fixture,Burkina Faso
+light fixture,Cambodia
+light fixture,Cameroon
+light fixture,Haiti
+light fixture,Malawi
+light fixture,Myanmar
+light fixture,Tanzania
+light fixture,Zimbabwe
+light switch,Malawi
+light switch,Pakistan
+living room,China
+living room,Indonesia
+living room,Philippines
+makeup,Brazil
+makeup,United States
+medicine,Brazil
+medicine,China
+medicine,Egypt
+medicine,Hong Kong
+medicine,India
+medicine,Italy
+medicine,Japan
+medicine,Nepal
+medicine,Nigeria
+medicine,Philippines
+medicine,Romania
+medicine,Saudi Arabia
+medicine,South Korea
+medicine,Spain
+medicine,Thailand
+medicine,Turkey
+medicine,United Arab Emirates
+medicine,United States
+menstruation pad,Colombia
+menstruation pad,India
+parking lot,India
+pet,Egypt
+pet,Nigeria
+plate,Bangladesh
+plate,Cameroon
+plate,Malawi
+plate,Myanmar
+plate,Nepal
+plate,Nigeria
+plate,Tunisia
+plate,Vietnam
+play area,Burkina Faso
+play area,Cambodia
+play area,China
+play area,Colombia
+play area,Haiti
+play area,India
+play area,Indonesia
+play area,Malawi
+play area,Nepal
+play area,Pakistan
+play area,Philippines
+play area,South Africa
+play area,Tunisia
+play area,Vietnam
+refrigerator,Philippines
+religious building,China
+religious building,India
+religious building,Nigeria
+religious building,Saudi Arabia
+religious building,South Korea
+religious building,United Arab Emirates
+road sign,Saudi Arabia
+rug,China
+rug,Indonesia
+rug,Malawi
+rug,Nepal
+rug,Pakistan
+rug,Philippines
+salt,Netherlands
+shampoo,Brazil
+shampoo,China
+shampoo,India
+shampoo,Indonesia
+shampoo,Nepal
+shampoo,Philippines
+shoes,Bangladesh
+shoes,Burkina Faso
+shoes,Burundi
+shoes,Cambodia
+shoes,Haiti
+shoes,Malawi
+shoes,Myanmar
+shoes,Pakistan
+shoes,Zimbabwe
+shower,Indonesia
+shower,Nepal
+shower,Philippines
+sleep,Brazil
+source of cool,Nepal
+source of cool,Pakistan
+source of cool,Philippines
+spice,Brazil
+spice,Colombia
+spice,Italy
+spice,Japan
+spice,Mexico
+spice,Netherlands
+spice,Nigeria
+spice,Pakistan
+spice,Philippines
+spice,Saudi Arabia
+spice,South Africa
+spice,South Korea
+spice,Spain
+spice,Turkey
+spice,United Arab Emirates
+spice,United Kingdom
+spice,United States
+storage room,China
+storage room,Indonesia
+storage room,Nepal
+storage room,Philippines
+store,Egypt
+store,Indonesia
+store,Japan
+store,Nigeria
+store,Saudi Arabia
+store,South Korea
+store,United Arab Emirates
+stove,Bangladesh
+stove,Cameroon
+stove,Malawi
+stove,Nepal
+stove,Vietnam
+streetlight lantern,Nigeria
+streetlight lantern,Saudi Arabia
+streetlight lantern,South Korea
+toilet,Bangladesh
+toilet,Bolivia
+toilet,Burkina Faso
+toilet,Burundi
+toilet,Cote d'Ivoire
+toilet,Ethiopia
+toilet,Haiti
+toilet,Malawi
+toilet,Myanmar
+toilet,Nepal
+toilet,Nigeria
+toilet,South Africa
+toilet,Vietnam
+toilet,Zimbabwe
+toothbrush,Malawi
+toy,Jordan
+toy,Myanmar
+toy,Ukraine
+tree,Egypt
+tree,Indonesia
+tree,Nigeria
+tree,Philippines
+tree,Saudi Arabia
+tree,United Arab Emirates
+truck,Saudi Arabia
+wall,Cameroon
+wall,Pakistan
+wall,Thailand
+water outlet,Indonesia
+water outlet,Nepal
+water outlet,Philippines
+work area,Indonesia
+work area,Philippines
