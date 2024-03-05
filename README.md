@@ -9,11 +9,13 @@ This work proposes methods to **identify the data to be annotated, to balance mo
 
 ![Vision-language models work poorly on data from underrepresented countries. This is primarily due to the diverse appearance of topics (objects and actions) across countries (e.g., ``toothbrush''). However, collecting diverse global data is very expensive. As solutions to budget annotations, we propose to (1) annotate the images visually different from the ones in high-resource datasets such as LAION or ImageNet; (2) supplement data from low-resource countries with data from visually similar countries.](task_overview.png)
 
+Vision-language models work poorly on data from underrepresented countries. This is primarily due to the diverse appearance of topics (objects and actions) across countries (e.g., ``toothbrush''). However, **collecting diverse global data is very expensive**. As **solutions to budget annotations**, we propose to: (1) annotate the images visually different from the ones in high-resource datasets such as LAION or ImageNet; (2) supplement data from low-resource countries with data from visually similar countries.
+
 We hope our work contributes to **building more inclusive and affordable vision-language models and datasets** to help democratize AI globally.
 
 For more information, read our [COLING 2024](https://lrec-coling-2024.org/) paper:
 
-[Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost](todo)
+[Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost](TODO)
 
 By [Oana Ignat](https://oanaignat.github.io/), [Longju Bai](https://longjubai.github.io/), [Joan Nwatu](https://anniejoan.github.io/), and
 [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/).
