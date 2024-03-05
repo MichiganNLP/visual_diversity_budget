@@ -13,8 +13,7 @@ We hope our work contributes to **building more inclusive and affordable vision-
 
 For more information, read our [COLING 2024](https://lrec-coling-2024.org/) paper:
 
-[Annotations on a Budget: Leveraging Geo-Data Similarity to \\
-Balance Model Performance and Annotation Cost](todo)
+[Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost](todo)
 
 By [Oana Ignat](https://oanaignat.github.io/), [Longju Bai](https://longjubai.github.io/), [Joan Nwatu](https://anniejoan.github.io/), and
 [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/).
