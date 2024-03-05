@@ -1,5 +1,4 @@
-### Annotations on a Budget: Leveraging Geo-Data Similarity to
-Balance Model Performance and Annotation Cost
+### Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost
 
 - The data before and after pre-processing and the topic mapping
 is shown in [data/data_pre-processing.csv](data/data_pre-processing.csv) 
