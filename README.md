@@ -1,6 +1,6 @@
 # Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost
 
-[[Paper]](TODO)
+[[Paper]](http://arxiv.org/abs/2403.07687)
 [[ACL Anthology page]](TODO)
 [[Poster]](TODO)
 
@@ -38,6 +38,20 @@ most similar countries are in [data/output_RQ2.csv](data/output_RQ2.csv)
 ## Citation
 
 ```bibtex
-@inproceedings{TODO
+@inproceedings{ignat-etal-2024-budget,
+    title = "Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost",
+    author = "Ignat, Oana  and
+      Bai, Longju  and
+      Nwatu, Joan  and
+      Mihalcea, Rada",
+    booktitle = "TODO",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/TODO",
+    pages = "284--294",
+    abstract = "",
+    series = {COLING '10}
 }
 ```
