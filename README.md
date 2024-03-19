@@ -50,8 +50,8 @@ most similar countries are in [data/output_RQ2.csv](data/output_RQ2.csv)
     address = "Torino, Italia",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/TODO",
-    pages = "284--294",
+    pages = "TODO",
     abstract = "",
-    series = {COLING '10}
+    series = {COLING '24}
 }
 ```
