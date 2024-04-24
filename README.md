@@ -1,6 +1,6 @@
 # Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost
 
-[[Paper]](http://arxiv.org/abs/2403.07687)
+[[Paper]](https://arxiv.org/pdf/2403.07687.pdf)
 [[ACL Anthology page]](TODO)
 [[Poster]](TODO)
 
@@ -15,7 +15,7 @@ We hope our work contributes to **building more inclusive and affordable vision-
 
 For more information, read our [COLING 2024](https://lrec-coling-2024.org/) paper:
 
-[Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost](TODO)
+[Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost](https://arxiv.org/pdf/2403.07687.pdf)
 
 By [Oana Ignat](https://oanaignat.github.io/), [Longju Bai](https://longjubai.github.io/), [Joan Nwatu](https://anniejoan.github.io/), and
 [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/).
@@ -51,7 +51,6 @@ most similar countries are in [data/output_RQ2.csv](data/output_RQ2.csv)
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/TODO",
     pages = "TODO",
-    abstract = "",
     series = {COLING '24}
 }
 ```
