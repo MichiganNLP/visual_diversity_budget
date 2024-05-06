@@ -1,8 +1,8 @@
 # Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost
 
-[[Paper]](https://arxiv.org/pdf/2403.07687.pdf)
+[Paper](https://arxiv.org/pdf/2403.07687.pdf)
 [[ACL Anthology page]](TODO)
-[[Poster]](TODO)
+[Poster](COLING.BudgetAnnotations.2024.pdf)
 
 
 This work proposes methods to **identify the data to be annotated, to balance model performance and annotation costs**. 
