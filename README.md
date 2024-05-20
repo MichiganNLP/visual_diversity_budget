@@ -38,19 +38,25 @@ most similar countries are in [data/output_RQ2.csv](data/output_RQ2.csv)
 ## Citation
 
 ```bibtex
-@inproceedings{ignat-etal-2024-budget,
+@inproceedings{ignat-etal-2024-annotations-budget,
     title = "Annotations on a Budget: Leveraging Geo-Data Similarity to Balance Model Performance and Annotation Cost",
     author = "Ignat, Oana  and
       Bai, Longju  and
-      Nwatu, Joan  and
+      Nwatu, Joan C.  and
       Mihalcea, Rada",
-    booktitle = "TODO",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     month = may,
     year = "2024",
-    address = "Torino, Italia",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/TODO",
-    pages = "TODO",
-    series = {COLING '24}
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.112",
+    pages = "1239--1259",
+    abstract = "Current foundation models have shown impressive performance across various tasks. However, several studies have revealed that these models are not effective for everyone due to the imbalanced geographical and economic representation of the data used in the training process. Most of this data comes from Western countries, leading to poor results for underrepresented countries. To address this issue, more data needs to be collected from these countries, but the cost of annotation can be a significant bottleneck. In this paper, we propose methods to identify the data to be annotated to balance model performance and annotation costs. Our approach first involves finding the countries with images of topics (objects and actions) most visually distinct from those already in the training datasets used by current large vision-language foundation models. Next, we identify countries with higher visual similarity for these topics and show that using data from these countries to supplement the training data improves model performance and reduces annotation costs. The resulting lists of countries and corresponding topics are made available at https://github.com/MichiganNLP/visual{\_}diversity{\_}budget.",
 }
 ```
